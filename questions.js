@@ -84,7 +84,7 @@ let questions = [
     },
     {
         numb: 10,
-        question: "Marque o local onde deve ser colocado o acento: Palavra: " Cracha",
+        question: "Marque o local onde deve ser colocado o acento: Palavra: "Cracha",
         answer: " Crachá",
         options: [
             "Crachá",
