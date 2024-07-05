@@ -55,11 +55,11 @@ let questions = [
     },
     {
         numb: 7,
-        question: "Escreva a palavra acentuada corretamente: Palavra: 'mapa'",
-        answer: "mapá",
+        question: "Escreva a palavra acentuada corretamente: Palavra: 'virus'",
+        answer: "vírus",
         options: [
-            "mápa",
-            "mapá"
+            "vírus",
+            "virús"
         ]
     },
     {
@@ -84,11 +84,11 @@ let questions = [
     },
     {
         numb: 10,
-        question: "Marque o local onde deve ser colocado o acento: Palavra: 'lingua'",
-        answer: "língua",
+        question: "Marque o local onde deve ser colocado o acento: Palavra: " Cracha",
+        answer: " Crachá",
         options: [
-            "língua",
-            "lingua",
+            "Crachá",
+            "Crácha",
             
         ]
     },
